@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ricardidawesiim02kiddgoog_0019.png"; bbox 0 0 3032 4898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1228 2093 1973 2300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1228 2093 1973 2300">
+     <span class='ocr_line' id='line_1_1' title="bbox 1441 2093 1751 2145; baseline -0.006 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1441 2093 1717 2145; x_wconf 73' lang='lat' dir='ltr'>LONDINI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1736 2110 1751 2141; x_wconf 75' lang='lat' dir='ltr'><em>z</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1228 2241 1973 2300; baseline -0.005 -9"><span class='ocrx_word' id='word_1_3' title='bbox 1228 2243 1528 2291; x_wconf 66' lang='lat' dir='ltr'>Excumr</span> <span class='ocrx_word' id='word_1_4' title='bbox 1553 2244 1623 2291; x_wconf 71' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1655 2241 1973 2300; x_wconf 66' lang='lat' dir='ltr'>Cannar,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1345 2388 1861 2436">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1345 2388 1861 2436">
+     <span class='ocr_line' id='line_1_3' title="bbox 1345 2388 1861 2436; baseline -0.006 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1345 2399 1418 2435; x_wconf 75' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1439 2388 1624 2436; x_wconf 49' lang='lat' dir='ltr'>sonum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1643 2396 1861 2435; x_wconf 69' lang='lat' dir='ltr'>munt.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
